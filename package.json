@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-creative",
+  "version": "0.0.0",
+  "description": "Creative for mongoscope that does'nt need to be glyphs",
+  "author": "Lucas Hrabovsky <hrabovsky.lucas@gmail.com> (http://imlucas.com)",
+  "license": "MIT",
+  "homepage": "http://github.com/imlucas/mongoscope-creative",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imlucas/mongoscope-creative.git"
+  },
+  "keywords": [
+    "mongoscope",
+    "mongodb.js"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
